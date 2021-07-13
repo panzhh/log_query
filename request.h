@@ -1,8 +1,3 @@
-/*
- * Copyright (C) Alex Nekipelov (alex@nekipelov.net)
- * License: MIT
- */
-
 #ifndef HTTPPARSER_REQUEST_H
 #define HTTPPARSER_REQUEST_H
 
